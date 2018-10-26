@@ -1,7 +1,6 @@
 #!/usr/bin/perl -w
 
 # written by Zhimai Wang
-# for COMP9041, Assignment 1
 # September, 2016
 
 @perl = <>;
